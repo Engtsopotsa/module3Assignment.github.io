@@ -1,2 +1,2 @@
-# module3Assignment.github.io
-HTML CSS JS Assignment 3
+# Module3Assignment HU
+ Restaurant
